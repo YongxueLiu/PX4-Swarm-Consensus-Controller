@@ -1,5 +1,7 @@
-Writer: Liu Yongxue
-email: 805110687@qq.com
+#Writer: Liu Yongxue
+#email: 805110687@qq.com
+
+
 #!/usr/bin/env python3
 """
 swarm_single_file.py
