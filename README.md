@@ -1,8 +1,5 @@
 PX4-Swarm-Consensus-Controller / PX4集群一致性控制器
 
-#english | #中文
-
-<a name="english"></a>
 📋 Project Overview
 
 A distributed multi-UAV swarm control system based on ROS2 and PX4, implementing consensus-based formation control algorithms. This project enables coordinated flight of multiple drones with virtual leader following capabilities.
