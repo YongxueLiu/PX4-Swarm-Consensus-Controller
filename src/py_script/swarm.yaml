@@ -1,0 +1,34 @@
+# Number of agents
+n: 5
+
+# Adjacency matrix (5x5)
+A:
+   - [0,1,0,0,0]
+   - [1,0,1,0,0]
+   - [0,1,0,1,0]
+   - [0,0,1,0,1]
+   - [0,0,0,1,0]
+
+#Adjacency matrix (5x5) - Nearly fully connected
+#A:
+  #- [0,1,1,1,1]
+  #- [1,0,1,1,1]
+  #- [1,1,0,1,1]
+  #- [1,1,1,0,1]
+  #- [1,1,1,1,0]
+
+# Pinning vector: 
+b: [1, 0, 0, 1, 0]
+
+# Formation shape: desired [x, y] offsets for each agent 
+# Formation 中的每个 [x, y]  表示第 i 个智能体相对于虚拟领航者（leader）的期望位置
+# 整个编队是以虚拟领航者为参考点（原点）定义的
+formation:
+  - [0.0, 20.0]   # agent 1
+  - [0.0, 10.0]   # agent 2
+  - [10.0, 10.0]   # agent 3
+  - [10.0, 0.0]   # agent 4
+  - [20.0, 0.0]   # agent 5
+
+hover_z: 2.5
+max_speed: 5
