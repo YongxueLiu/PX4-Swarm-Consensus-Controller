@@ -295,3 +295,19 @@ self.k_consensus = 0.20  # 一致性增益
 项目名称建议: PX4-Swarm-Consensus-Controller (英文), PX4集群一致性控制器 (中文)
 
 这个README提供了完整的中英双语介绍，包含了项目概述、特性、安装使用说明、配置示例等内容，格式规范，适合直接用于GitHub项目页面。
+
+'''
+================================================================================
+作者/Author: 刘永学/Liu Yongxue
+邮箱/Email: 805110687@qq.com
+QQ群：1080856708
+
+版权声明/Copyright Notice:
+© All rights reserved. 保留所有权利。
+
+使用许可/Usage License:
+仅供个人使用，禁止商业用途。
+For personal use only. Commercial use is prohibited.
+================================================================================
+'''
+
